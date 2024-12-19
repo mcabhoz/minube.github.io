@@ -1,1 +1,1 @@
-# minube.github.io/qgis2web/index.html
+# minube.github.io
